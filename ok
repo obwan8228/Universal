@@ -7240,7 +7240,7 @@ local Library do
                 Logo = Data.Logo or Data.logo or "135215559087473",
                 FadeSpeed = Data.FadeSpeed or Data.fadespeed or 0.2,
                 Version = Data.Version or Data.version or "v1.0.0 alpha",
-                Size = not IsMobile and UDim2New(0, 100, 0, 100) or UDim2New(0, 100, 0, 100),
+                Size = not IsMobile and UDim2New(0, 520, 0, 480) or UDim2New(0, 360, 0, 410),
 
                 Pages = { },
                 SubPages = { },
